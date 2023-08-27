@@ -1,5 +1,5 @@
 - 👋 Hi, I am Arushi.
-- 🌱 I am pursuing Bachelors' in Computer Application (first semester).
+- 🌱 I am pursuing Bachelors' in Computer Application.
 - 👀 I am specializing in Cloud Technology and Information Security.
 - 🤝 I am currently looking to collaborate on Beginner-level projects on Python and C.  
 
